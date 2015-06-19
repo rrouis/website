@@ -1,0 +1,60 @@
+
+*{
+margin: 5;
+padding: 0;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.main {
+    width: 1200px;
+    overflow: hidden;
+    float: left;
+    background: #fff;
+    padding: 20px;
+}
+    
+    
+body{
+    width:100%;
+    background-color: white
+} 
+
+
+
+ul{
+    width: 1200px;
+    madgin:　;
+    padding: 8px;
+    boder: 3px;
+    font-size: 12px;
+    transition: 1s;
+}
+h1{
+    text-align: center;
+    font-size: 15px;
+    width: 1200px;
+    margin-bottom: 5px;
+}
+p{
+    text-align: center;
+    font-size: 13px;
+    width: 290px;
+    margin-bottom: 5px;
+  
+}
+
+.col-6 {
+    width: 800px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.col-3 {
+    width: 280px;
+    padding: 10px;
+    float: left;
+    overflow: hidden;
+}
+
+    
